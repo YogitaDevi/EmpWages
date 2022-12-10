@@ -1,0 +1,14 @@
+E:\RFP231\EmpWages\UC6_EmpWages\bin\Debug\netcoreapp3.1\UC6_EmpWages.exe
+E:\RFP231\EmpWages\UC6_EmpWages\bin\Debug\netcoreapp3.1\UC6_EmpWages.deps.json
+E:\RFP231\EmpWages\UC6_EmpWages\bin\Debug\netcoreapp3.1\UC6_EmpWages.runtimeconfig.json
+E:\RFP231\EmpWages\UC6_EmpWages\bin\Debug\netcoreapp3.1\UC6_EmpWages.runtimeconfig.dev.json
+E:\RFP231\EmpWages\UC6_EmpWages\bin\Debug\netcoreapp3.1\UC6_EmpWages.dll
+E:\RFP231\EmpWages\UC6_EmpWages\bin\Debug\netcoreapp3.1\UC6_EmpWages.pdb
+E:\RFP231\EmpWages\UC6_EmpWages\obj\Debug\netcoreapp3.1\UC6_EmpWages.csproj.AssemblyReference.cache
+E:\RFP231\EmpWages\UC6_EmpWages\obj\Debug\netcoreapp3.1\UC6_EmpWages.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP231\EmpWages\UC6_EmpWages\obj\Debug\netcoreapp3.1\UC6_EmpWages.AssemblyInfoInputs.cache
+E:\RFP231\EmpWages\UC6_EmpWages\obj\Debug\netcoreapp3.1\UC6_EmpWages.AssemblyInfo.cs
+E:\RFP231\EmpWages\UC6_EmpWages\obj\Debug\netcoreapp3.1\UC6_EmpWages.csproj.CoreCompileInputs.cache
+E:\RFP231\EmpWages\UC6_EmpWages\obj\Debug\netcoreapp3.1\UC6_EmpWages.dll
+E:\RFP231\EmpWages\UC6_EmpWages\obj\Debug\netcoreapp3.1\UC6_EmpWages.pdb
+E:\RFP231\EmpWages\UC6_EmpWages\obj\Debug\netcoreapp3.1\UC6_EmpWages.genruntimeconfig.cache
