@@ -1,0 +1,15 @@
+E:\RFP231\EmpWages\UC8_EmpWages\bin\Debug\net6.0\UC8_EmpWages.exe
+E:\RFP231\EmpWages\UC8_EmpWages\bin\Debug\net6.0\UC8_EmpWages.deps.json
+E:\RFP231\EmpWages\UC8_EmpWages\bin\Debug\net6.0\UC8_EmpWages.runtimeconfig.json
+E:\RFP231\EmpWages\UC8_EmpWages\bin\Debug\net6.0\UC8_EmpWages.dll
+E:\RFP231\EmpWages\UC8_EmpWages\bin\Debug\net6.0\UC8_EmpWages.pdb
+E:\RFP231\EmpWages\UC8_EmpWages\obj\Debug\net6.0\UC8_EmpWages.csproj.AssemblyReference.cache
+E:\RFP231\EmpWages\UC8_EmpWages\obj\Debug\net6.0\UC8_EmpWages.GeneratedMSBuildEditorConfig.editorconfig
+E:\RFP231\EmpWages\UC8_EmpWages\obj\Debug\net6.0\UC8_EmpWages.AssemblyInfoInputs.cache
+E:\RFP231\EmpWages\UC8_EmpWages\obj\Debug\net6.0\UC8_EmpWages.AssemblyInfo.cs
+E:\RFP231\EmpWages\UC8_EmpWages\obj\Debug\net6.0\UC8_EmpWages.csproj.CoreCompileInputs.cache
+E:\RFP231\EmpWages\UC8_EmpWages\obj\Debug\net6.0\UC8_EmpWages.dll
+E:\RFP231\EmpWages\UC8_EmpWages\obj\Debug\net6.0\refint\UC8_EmpWages.dll
+E:\RFP231\EmpWages\UC8_EmpWages\obj\Debug\net6.0\UC8_EmpWages.pdb
+E:\RFP231\EmpWages\UC8_EmpWages\obj\Debug\net6.0\UC8_EmpWages.genruntimeconfig.cache
+E:\RFP231\EmpWages\UC8_EmpWages\obj\Debug\net6.0\ref\UC8_EmpWages.dll
